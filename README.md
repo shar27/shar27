@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have traveled to over 25 + countries, lived in 3 and speak 6 languages.
 
 [![Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shar27)](https://github.com/shar27/github-readme-stats)
+![Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shar27&show_icons=true&theme=radical)
