@@ -8,6 +8,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?shar27&color=green)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shar27)](https://github.com/shar27/github-readme-stats)
+
 
 - 🔭 I’m currently working on a lot of different applications
 - 🌱 I’m currently learning serviceNow.
