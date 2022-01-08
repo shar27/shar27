@@ -3,6 +3,7 @@
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 
 
+
 ![Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shar27&show_icons=true&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?shar27&color=green)
